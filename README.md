@@ -62,7 +62,7 @@ python license_plate_detection.py --webcam --output path/to/output.mp4
 
 ## Model
 
-This project uses a pre-trained YOLOv8 model specifically trained for license plate detection: `license_plate_detector.pt`
+This project uses a pre-trained YOLOv8 model specifically trained for license plate detection: `exported_pretrained.pt`
 
 ## License
 
